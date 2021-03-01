@@ -2,4 +2,4 @@
 Detta är en git lab
 
 #Mer info
-Se nedan
+Se nedanför för mer info
